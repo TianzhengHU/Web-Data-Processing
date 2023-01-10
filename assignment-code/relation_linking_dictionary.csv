@@ -1,0 +1,19 @@
+"Cause-Effect e1,e2",has cause,https://www.wikidata.org/wiki/Property:P828
+"Cause-Effect e2,e1",has effect ,https://www.wikidata.org/wiki/Property:P1542
+"Component-Whole e1,e2",part of,https://www.wikidata.org/wiki/Property:P361
+"Component-Whole e2,e1",consist of,https://www.wikidata.org/wiki/Q55692548
+"Content-Container e1,e2",content,https://www.wikidata.org/wiki/Q1260632
+"Content-Container e2,e1",container,https://www.wikidata.org/wiki/Q987767
+"Entity-Destination e1,e2",entity,https://www.wikidata.org/wiki/Q35120
+"Entity-Destination e2,e1",destination point ,https://www.wikidata.org/wiki/Property:P1444
+"Entity-Origin e1,e2",entity,https://www.wikidata.org/wiki/Q35120
+"Entity-Origin e2,e1",origin,https://www.wikidata.org/wiki/Q3885844
+"Instrument-Agency e1,e2",instrument,https://www.wikidata.org/wiki/Property:P1303
+"Instrument-Agency e2,e1",agency,https://www.wikidata.org/wiki/Q352450
+"Member-Collection e1,e2",member,https://www.wikidata.org/wiki/Q9200127
+"Member-Collection e2,e1",collection,https://www.wikidata.org/wiki/Q2668072
+"Message-Topic e1,e2",message,https://www.wikidata.org/wiki/Q628523
+"Message-Topic e2,e1",topic,https://www.wikidata.org/wiki/Q200801
+"Product-Producer e1,e2",product,https://www.wikidata.org/wiki/Q2424752
+"Product-Producer e2,e1",producer,https://www.wikidata.org/wiki/Property:P162
+Other nan,,

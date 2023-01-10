@@ -1,0 +1,12 @@
+findspark
+bs4
+nltk
+spacy
+sparknlp
+numpy
+pyspark
+pandas
+networkx
+scikit-learn
+elasticsearch==7.8.1
+textdistance
